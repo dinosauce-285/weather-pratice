@@ -8,7 +8,7 @@ body {
 }
 .bg {
   height: 100vh;
-  background-image: url(./pics/hot.png);
+  background-image: url(./pics/cold.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -29,7 +29,7 @@ body {
   background: yellowgreen;
   padding: 30px 20px;
   border-radius: 10px;
-  background-image: url(./pics/hot.png);
+  background-image: url(./pics/cold.png);
   background-position: center;
   background-size: cover;
   
@@ -81,6 +81,7 @@ font-weight: 600;
 font-size: 40px;
 background-image: 3px 3px rgb(0 0 0 / 40%);
 text-shadow: 3px 3px rgb(0 0 0 / 40%);
+text-transform: capitalize;
 }
 .xtra-info{
  
